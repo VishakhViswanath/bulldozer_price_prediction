@@ -58,7 +58,7 @@ For a detailed list of features, refer to the [Data Dictionary on Kaggle](https:
 
 @. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bulldozer-price-prediction.git
+   git clone https://github.com/VishakhViswanath/bulldozer_price_prediction
 
     Follow the steps in the notebook to load the data, clean it, and build the machine learning model.
 
