@@ -54,22 +54,22 @@ For a detailed list of features, refer to the [Data Dictionary on Kaggle](https:
 4. **Model Evaluation**:
    - The model achieved an **R² score of 0.88** and an **RMSLE of 0.31**, demonstrating strong predictive power in estimating the sale prices of bulldozers.
 
-## How to Run the Code
 
-@. Clone the repository:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/VishakhViswanath/bulldozer_price_prediction
 
     Follow the steps in the notebook to load the data, clean it, and build the machine learning model.
 
-Results
+2. Results
 
     R² score: 0.88, indicating that the model explains 88% of the variance in the bulldozer sale prices.
     RMSLE: 0.31, reflecting a good fit and low error between the predicted and actual prices.
 
-Conclusion
+3. Conclusion
 
-This project demonstrates the process of predicting the sale price of bulldozers using machine learning techniques. The Random Forest Regressor model performed well with an R² score of 0.88 and an RMSLE of 0.31, making it a reliable model for estimating bulldozer prices based on historical sales data. Future work could include experimenting with other algorithms and incorporating additional features for further optimization.
+   This project demonstrates the process of predicting the sale price of bulldozers using machine learning techniques. The Random Forest Regressor model performed well with an R² score of 0.88 and an RMSLE of 0.31,    making it a reliable model for estimating bulldozer prices based on historical sales data. Future work could include experimenting with other algorithms and incorporating additional features for further optimization.
 
     Dataset provided by Kaggle's Blue Book for Bulldozers competition.
     Libraries used: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
